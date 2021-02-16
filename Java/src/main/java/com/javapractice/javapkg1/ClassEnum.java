@@ -9,7 +9,7 @@ class Coffee {
 	};
 
 	coffeeSize size;
-
+// comment 1
 }
 
 public class ClassEnum {
