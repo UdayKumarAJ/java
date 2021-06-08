@@ -4,4 +4,9 @@ package com.javapractice.javapkg1;
  */
 public class Java1 {
 
+	
+	public void Hii()
+	{
+		System.out.println("hello");
+	}
 }
